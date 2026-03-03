@@ -1,2 +1,22 @@
-# image-gallery-project
-A responsive Image Gallery built using HTML, CSS, and JavaScript featuring lightbox preview, smooth fade animations, next/previous navigation, swipe support for mobile devices, and thumbnail image selection. Designed with clean UI and fully responsive layout for seamless user experience across devices.
+# 📸 Image Gallery Project
+
+A responsive image gallery built using HTML, CSS, and JavaScript.
+
+## ✨ Features
+- Lightbox preview
+- Next/Previous navigation
+- Fade animation
+- Swipe support (mobile)
+- Thumbnail preview
+- Fully responsive design
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+## 🚀 Live Demo
+(Add GitHub Pages link here)
+
+## 📂 Author
+Chithra B
